@@ -1,5 +1,2 @@
-import { init, exit } from "myPackage";
-init({
-    url: "",
-});
-exit(0);
+"use strict";
+console.log("hi");
